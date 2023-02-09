@@ -1,3 +1,5 @@
+![Profile](https://raw.githubusercontent.com/elifozlembagci/CodingTime/main/Temel%20Bilgiler/linkedin%20arka%20plan.png?token=GHSAT0AAAAAAB6KPO4QAUNBCT4UKGDE6SGMY7FADHA)
+
 <h1 align="center">Hi 👋, I'm Elif Özlem Bağcı</h1>
 <h3 align="center">Molecular Biology and Genetics student from Turkey</h3>
 
